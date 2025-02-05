@@ -13,9 +13,9 @@ You can clone the pre-trained model showen in the workshop to play around with d
  git clone https://huggingface.co/Hamze-Hammami/AI-Workshop-models-E4L
 ```
 
-Alternatively, you can go directly to the models on **[Hugging Face](https://huggingface.co/Hamze-Hammami/AI-Workshop-models-E4L/tree/main/models)**:
+Alternatively, you can go directly to the models on **[Hugging Face]**:
 
-[![Hugging Face](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/)
+[![Hugging Face](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/Hamze-Hammami/AI-Workshop-models-E4L/tree/main/models)
 
 ## 🚀 Running Training Scripts
 You can run the training scripts either **locally on a Jupyter Notebook** or on Google Colab:
