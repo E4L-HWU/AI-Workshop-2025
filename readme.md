@@ -4,7 +4,7 @@ Welcome to the **AI-Workshop-2025 Repository**! This repository is an extension 
 All workshop instructions and explanations are provided in **AI workshop ppts 2025**. Please refer to these slides for detailed guidance on setting up and running YOLOv8.
 follow instructions on 'docs.pdf'
 for presentation go to 'pres.pdf'
-## 📜 Code
+## 💻 Code
 All scripts required for training, inference, and evaluation are available in the **`scripts/`** directory.
 
 ## 🏋️ Pulling the Model
