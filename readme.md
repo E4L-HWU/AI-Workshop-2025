@@ -28,7 +28,9 @@ For local execution, run the script in a notebook:
 !python scripts/train.ipynb
 ```
 
-follow instructions from 'AI workshop ppts 2025 / docs.pdf' 
+follow instructions from 'AI workshop ppts 2025 / docs.pdf'
+
+
 for presentation got to 'AI workshop ppts 2025 /pres.pdf'
 ---
 ### 🔗 Additional Resources
