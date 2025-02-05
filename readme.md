@@ -23,10 +23,10 @@ You can run the training scripts either **locally on a Jupyter Notebook** or on 
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AJcaxH2Tx6PEU5UHtRBX6ACOhllukigM?usp=sharing)
 
-For local execution, run the script in a notebook:
+For local execution, open the script in a notebook:
 
 ```python
-!python scripts/train.ipynb
+scripts/train.ipynb
 ```
 
 
