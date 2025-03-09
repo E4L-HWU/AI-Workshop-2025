@@ -30,5 +30,4 @@ code/train.ipynb
 ```
 
 
-Thank you to ESSA for making this happen. 
 
